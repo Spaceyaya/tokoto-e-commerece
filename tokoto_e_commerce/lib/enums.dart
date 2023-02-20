@@ -1,0 +1,1 @@
+enum MenuState{Home,Favorite,Message,Profile}

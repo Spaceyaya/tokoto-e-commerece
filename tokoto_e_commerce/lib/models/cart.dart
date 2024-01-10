@@ -2,7 +2,7 @@ import 'package:tokoto_e_commerce/models/product.dart';
 
 class Cart {
   final Product product;
-  final int numOfItem;
+  final int numOfItems;
 
   Cart({required this.product, required this.numOfItem});
 }
